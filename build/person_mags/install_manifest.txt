@@ -1,0 +1,15 @@
+/home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/package_run_dependencies/person_mags
+/home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/parent_prefix_path/person_mags
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/ament_prefix_path.sh
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/ament_prefix_path.dsv
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/path.sh
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/path.dsv
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.bash
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.sh
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.zsh
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.dsv
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/package.dsv
+/home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/packages/person_mags
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/cmake/person_magsConfig.cmake
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/cmake/person_magsConfig-version.cmake
+/home/yanagi/ros2_ws/install/person_mags/share/person_mags/package.xml

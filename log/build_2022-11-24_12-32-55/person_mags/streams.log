@@ -1,0 +1,20 @@
+[0.201s] Invoking command in '/home/yanagi/ros2_ws/build/person_mags': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yanagi/ros2_ws/build/person_mags -- -j8 -l8
+[0.232s] Invoked command in '/home/yanagi/ros2_ws/build/person_mags' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yanagi/ros2_ws/build/person_mags -- -j8 -l8
+[0.287s] Invoking command in '/home/yanagi/ros2_ws/build/person_mags': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yanagi/ros2_ws/build/person_mags
+[0.293s] -- Install configuration: ""
+[0.293s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/package_run_dependencies/person_mags
+[0.293s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/parent_prefix_path/person_mags
+[0.293s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/ament_prefix_path.sh
+[0.294s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/ament_prefix_path.dsv
+[0.294s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/path.sh
+[0.294s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/path.dsv
+[0.295s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.bash
+[0.295s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.sh
+[0.295s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.zsh
+[0.295s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.dsv
+[0.295s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/package.dsv
+[0.296s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/packages/person_mags
+[0.296s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/cmake/person_magsConfig.cmake
+[0.296s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/cmake/person_magsConfig-version.cmake
+[0.296s] -- Up-to-date: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/package.xml
+[0.299s] Invoked command in '/home/yanagi/ros2_ws/build/person_mags' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yanagi/ros2_ws/build/person_mags

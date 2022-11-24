@@ -1,0 +1,42 @@
+[0.235s] Invoking command in '/home/yanagi/ros2_ws/build/person_mags': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yanagi/ros2_ws/src/person_mags -DCMAKE_INSTALL_PREFIX=/home/yanagi/ros2_ws/install/person_mags
+[0.525s] -- The C compiler identification is GNU 11.3.0
+[0.906s] -- The CXX compiler identification is GNU 11.3.0
+[1.094s] -- Detecting C compiler ABI info
+[1.237s] -- Detecting C compiler ABI info - done
+[1.246s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.246s] -- Detecting C compile features
+[1.247s] -- Detecting C compile features - done
+[1.252s] -- Detecting CXX compiler ABI info
+[1.377s] -- Detecting CXX compiler ABI info - done
+[1.383s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.384s] -- Detecting CXX compile features
+[1.384s] -- Detecting CXX compile features - done
+[1.392s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.564s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.670s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.756s] -- Added test 'lint_cmake' to check CMake code style
+[1.758s] -- Added test 'xmllint' to check XML markup files
+[1.761s] -- Configuring done
+[1.763s] -- Generating done
+[1.764s] -- Build files have been written to: /home/yanagi/ros2_ws/build/person_mags
+[1.768s] Invoked command in '/home/yanagi/ros2_ws/build/person_mags' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yanagi/ros2_ws/src/person_mags -DCMAKE_INSTALL_PREFIX=/home/yanagi/ros2_ws/install/person_mags
+[1.770s] Invoking command in '/home/yanagi/ros2_ws/build/person_mags': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yanagi/ros2_ws/build/person_mags -- -j8 -l8
+[1.798s] Invoked command in '/home/yanagi/ros2_ws/build/person_mags' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yanagi/ros2_ws/build/person_mags -- -j8 -l8
+[1.824s] Invoking command in '/home/yanagi/ros2_ws/build/person_mags': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yanagi/ros2_ws/build/person_mags
+[1.830s] -- Install configuration: ""
+[1.831s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/package_run_dependencies/person_mags
+[1.831s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/parent_prefix_path/person_mags
+[1.831s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/ament_prefix_path.sh
+[1.831s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/ament_prefix_path.dsv
+[1.831s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/path.sh
+[1.831s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/environment/path.dsv
+[1.832s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.bash
+[1.832s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.sh
+[1.832s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.zsh
+[1.832s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/local_setup.dsv
+[1.832s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/package.dsv
+[1.832s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/ament_index/resource_index/packages/person_mags
+[1.833s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/cmake/person_magsConfig.cmake
+[1.833s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/cmake/person_magsConfig-version.cmake
+[1.833s] -- Installing: /home/yanagi/ros2_ws/install/person_mags/share/person_mags/package.xml
+[1.836s] Invoked command in '/home/yanagi/ros2_ws/build/person_mags' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yanagi/ros2_ws/build/person_mags

@@ -1,0 +1,9 @@
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/uninstall.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/person_mags_uninstall.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/test.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/edit_cache.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/rebuild_cache.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/list_install_components.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/install.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/install/local.dir
+/home/yanagi/ros2_ws/build/person_mags/CMakeFiles/install/strip.dir
